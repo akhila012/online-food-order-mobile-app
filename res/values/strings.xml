@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Foodie</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome</string>
+    <string name="Your_Name">Your Name</string>
+    <string name="eg_rahul">eg:rahul</string>
+    <string name="Your_Email_Address">Your Email Address</string>
+    <string name="eg_abc_gmail_com">eg:abc@gmail.com</string>
+    <string name="location">Location</string>
+    <string name="address">Address</string>
+    <string name="login">login</string>
+    <string name="or">OR</string>
+    <string name="sign_up">sign up</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="password">password</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="submit">Submit</string>
+    <string name="forgot_password">forgot password</string>
+
+</resources>
